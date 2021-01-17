@@ -1,2 +1,0 @@
-# Pet-Sim
-Tomogatchi Pet
