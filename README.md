@@ -213,9 +213,8 @@ namespace Tomagtachi
 
 ### UI Screenshots
 
-![image-20210113112741669](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113112741669.png)
+![image-20210113112741669](/screenshots/Home screen.png)
 
-`![image-20210113112804575](C:\Users\vivek\`
 
 ### Code
 
@@ -304,19 +303,19 @@ screen shots are introduced by pet type (Selected in the first form). Each pet h
 
 #### Dog:
 
-![image-20210113113936872](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113113936872.png)
+![image-20210113113936872](/screenshots/Dog.png)
 
 #### Cat:
 
-![image-20210113114042929](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113114042929.png)
+![image-20210113114042929](/screenshots/Cat.png)
 
 #### Fish:
 
-![image-20210113114200759](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113114200759.png)
+![image-20210113114200759](/screenshots/Fish.png)
 
 #### Snake:
 
-![image-20210113114322486](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113114322486.png)
+![image-20210113114322486](/screenshots/Snake.png)
 
 ### Code
 
@@ -431,7 +430,7 @@ namespace Tomagtachi
 
 ### Screenshots
 
-![image-20210113115054067](C:\Users\vivek\AppData\Roaming\Typora\typora-user-images\image-20210113115054067.png)
+![image-20210113115054067](/screenshots/Minigame.png)
 
 ### Code
 
