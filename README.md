@@ -213,7 +213,7 @@ namespace Tomagtachi
 
 ### UI Screenshots
 
-![image-20210113112741669](/screenshots/Home screen.png)
+![image-20210113112741669](screenshots/Home screen.png)
 
 
 ### Code
