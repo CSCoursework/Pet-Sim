@@ -1,5 +1,8 @@
 # Pet simulator
 
+## About:
+This was a game that was set as classwork in cs. The breif was an object orientated cyber-pet game with an UI (preferbly gui). It also had to have a mini-game that would affect the main game. So this was my final result. The project was not entirely finished by the deadline as a lot of polishing still needed to be done. The game rules are the player selects a pet name and type. Each type has diffrent but balanced statsics and prompts a diffrent avatar on the game screen. There are also several balanced activities that will give the pets diffrent stats increases. However each activity has a nuetral impact of 0 across every stat as it has side effects (i.e playing makes you hungry). Coupled with time damadge means the pet will eventually die. The minigame is a word guessing game that can revieve a pet just after it has died. If you get 3 words correct of their definition it reveieves the pet. It is just a barely modified version of my word gueessing game (See the repo on that).
+
 ## Objects
 
 ```c#
